@@ -1,6 +1,11 @@
 # commonjs
 javascript 精确计算、日期处理、金额格式化
 
+### clone使用
+```html
+<script type="text/javascript" src="common.js"></script>
+```
+
 ### 精确计算
 ```javascript
 var a = 1;
